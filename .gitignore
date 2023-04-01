@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules
+/.yarn
+
+# Production
+/build
+
+# Generated files
+.docusaurus
+.cache-loader
