@@ -1,7 +1,8 @@
 # Q&A：常见问题与回答
 
-*   <mark style={{backgroundColor:"green"}}><b>Q：什么是 GPT3、GPT4、ChatGPT？</b></mark>
+你可以通过阅读当前模块快速了解本章重点内容。
 
+*   Q：什么是 GPT3、GPT4、ChatGPT？
     GPT-3 (Generative Pretrained Transformer 3) 和 GPT-4 是 OpenAI 开发的语言处理 AI 模型，
 
     ChatGPT 则是使用语言处理 AI 模型创建的一个有高度能力的聊天机器人
@@ -10,7 +11,7 @@
 
 
 
-*   <mark style={{backgroundColor:"green"}}><b>Q：ChatGPT 能做什么？</b></mark>
+*   Q：ChatGPT 能做什么？
 
     它具有相当广泛的能力，从在替代宇宙中写关于有感情的屁话和陈词滥调的浪漫喜剧，到用简单的术语解释量子力学或撰写全文研究论文和文章。
 
@@ -22,7 +23,7 @@
 
 
 
-*   <mark style={{backgroundColor:"green"}}><b>Q：有什么像 GPT 一样的其它的语言处理 AI 模型吗？</b></mark>
+*   Q：有什么像 GPT 一样的其它的语言处理 AI 模型吗？
 
     虽然 GPT-3 因其语言能力而声名鹊起，但它不是唯一能够做到这一点的人工智能。目前有一些像 GPT 这样的语言处理 AI 模型，包括：
 
@@ -34,7 +35,7 @@
 
 
 
-*   <mark style={{backgroundColor:"green"}}><b>Q：为什么 ChatGPT 会引发这么大的轰动？</b></mark>
+*   Q：为什么 ChatGPT 会引发这么大的轰动？
 
     ```jsx
     $todo$
