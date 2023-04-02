@@ -8,3 +8,5 @@
 # Generated files
 .docusaurus
 .cache-loader
+
+.DS_Store
