@@ -1,4 +1,8 @@
-# Chain-of-Thought Prompting
+---
+sidebar_position: 2
+---
+
+# 5.1.2. Chain-of-Thought Prompting
 
 # 链式思考（COT）
 
