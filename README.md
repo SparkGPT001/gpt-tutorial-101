@@ -38,5 +38,9 @@
 
 如果你是正在寻找一个本地部署大语言模型的代码教程，那么这个教程同样可能也帮不到你。虽然在这个文档里提及了非常多 NLP、大语言模型的知识，但极少地涉及具体的代码。
 
+## Contributors
+
+[![](https://opencollective.com/gpt-tutorial-101/contributors.svg?width=890&button=false)](https://github.com/SparkGPT001/gpt-tutorial-101/graphs/contributors)
+
 
 [点击开始阅读文档](https://gptdoc.sparkai.chat/)
