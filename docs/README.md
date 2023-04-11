@@ -16,7 +16,7 @@ description: Spark闪闪团队出品：ChatGPT 从 0 到 1 系统性学习资料
 > 主要作者简介：
 >
 > * Hank，计算机本硕，7年大数据与人工智能应用从业者，曾就职 YIMIAN by Ascential、腾讯、高榕资本，目前正在探索 AI 领域的创业机会
-> * Ginwiahzy，目前北京大学计算机本科大四就读，下学期本校就读 PhD，主要研究方向形式化验证和理论计算机科学，目前正在探索 AI 如何提升科研/日常工作流的效率 如果你有兴趣加入这个文档的创作、或者加入我的团队、或者单纯是想了解最新的资讯，请联系下面这个微信加入微信讨论群
+> * Ginwiahzy，目前北京大学计算机本科大四就读，下学期本校就读 PhD，主要研究方向形式化验证和理论计算机科学，目前正在探索 AI 如何提升科研/日常工作流的效率
 
 如果你有兴趣加入这个文档的创作、或者加入我的团队、或者单纯是想了解最新的资讯，请联系下面这个微信加入微信讨论群
 
@@ -24,7 +24,7 @@ description: Spark闪闪团队出品：ChatGPT 从 0 到 1 系统性学习资料
 
 ### 相关链接
 
-直接阅读 Notion：https://hankyzc.notion.site/ChatGPT-0-1-cbb8bd97914a49c896501fb3aae5de51 阅读基于 Vercel 建成的网站：https://gptdoc.sparkai.chat/
+链接：https://gptdoc.sparkai.chat/
 
 ### 文档介绍
 
