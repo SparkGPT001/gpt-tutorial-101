@@ -90,6 +90,10 @@ const config = {
             position: "left",
             label: "Tutorial",
           },
+          {
+            href: "https://forum.sparkai.chat",
+            label: "Forum",
+          },
           // { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/SparkGPT001/gpt-tutorial-101",
