@@ -128,7 +128,7 @@ John Lin是Willow市场和药店的药店老板，喜欢帮助人们。他总是
 
 然后根据 ChatGPT 的回答生成一个树状结构的反思，越高层的反思越抽象越概括：
 
-![Untitled](%E3%80%90%E9%BA%BB%E7%93%9C%E8%AF%BB%E8%AE%BA%E6%96%87%E3%80%91%E6%96%AF%E5%9D%A6%E7%A6%8F%E7%94%A8ChatGPT%E9%80%A0%E4%BA%8625%E4%B8%AANPC%E6%A8%A1%E6%8B%9F%E4%BA%BA%E7%94%9F%20182ca0617ac04f3983a5850691b276ef/Untitled%202.png)
+![Untitled](../../assets/6.1麻瓜读论文/GenerativeAgentsInteractiveSimulacraofHumanBehavior/Untitled%202.png)
 
 因为它们是一种记忆，所以在检索时它们与其他观察结果一起被包括在内。反思定期生成，大约每天每个 NPC 会反思两到三次。
 
